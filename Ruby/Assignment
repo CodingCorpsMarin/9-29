@@ -17,6 +17,8 @@ Active Record basics: http://guides.rubyonrails.org/active_record_basics.html
 What is MVC?: https://www.tutorialspoint.com/mvc_framework/mvc_framework_introduction.htm
 CRUD: http://searchdatamanagement.techtarget.com/definition/CRUD-cycle
 
+Reference for user auth/login: https://github.com/CodingCorpsMarin/user-registration-and-authentication-challenge/tree/final
+
 
 
 Sample Sinatra MVC Skeleton (feel free to look for your own if you want): https://github.com/CodingCorpsMarin/simple-sinatra-mvc
