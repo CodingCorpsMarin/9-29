@@ -1,0 +1,24 @@
+You'll be spending the rest of the week creating your own Sinatra blog.
+Your blog must:
+-Have RESTful CRUD routes
+-Login functionality (multiple authors is a plus)
+-Some CSS styling
+
+
+
+Some helpful resources:
+Restular: http://www.restular.com/
+HTML Forms: https://www.w3schools.com/html/html_forms.asp
+CSS in Sinatra: https://stackoverflow.com/questions/24153013/stylesheet-not-applying-to-sinatra-erb-views
+BCrypt Documentation: https://github.com/codahale/bcrypt-ruby
+Partials: http://www.sinatrarb.com/faq.html#partials
+Lorem Ipsum: http://www.lipsum.com/
+Active Record basics: http://guides.rubyonrails.org/active_record_basics.html
+What is MVC?: https://www.tutorialspoint.com/mvc_framework/mvc_framework_introduction.htm
+CRUD: http://searchdatamanagement.techtarget.com/definition/CRUD-cycle
+
+
+
+Sample Sinatra MVC Skeleton (feel free to look for your own if you want): https://github.com/CodingCorpsMarin/simple-sinatra-mvc
+https://github.com/CodingCorpsMarin/sinatra_skeleton-1
+https://github.com/CodingCorpsMarin/sinatra-mvc-skeleton
