@@ -18,7 +18,7 @@ What is MVC?: https://www.tutorialspoint.com/mvc_framework/mvc_framework_introdu
 CRUD: http://searchdatamanagement.techtarget.com/definition/CRUD-cycle
 
 Reference for user auth/login: https://github.com/CodingCorpsMarin/user-registration-and-authentication-challenge/tree/final
-
+Reference for user creating posts: https://github.com/CodingCorpsMarin/blog-2-multi-author-challenge/tree/louie-reference
 
 
 Sample Sinatra MVC Skeleton (feel free to look for your own if you want): https://github.com/CodingCorpsMarin/simple-sinatra-mvc
